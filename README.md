@@ -7,6 +7,9 @@ Lalevoo was a hobby project (result of a “Challenge accepted” type of conver
 2. Analyzing the Kashida/Space frequency in the covert text for choosing the bit encoding  
 3. Encrypting the message before hiding it in the covert text  
 
-Lalevoo’s UI credit goes to Sina (sina.ghaaf<!>gmail<!>com).  
+Lalevoo’s UI credit goes to Sina (sina.ghaaf<!>gmail<!>com).You can find a live version to paly with here :  
+http://imendocs.ir/lalevoo/
+
+ 
 /Shahriyar
 
